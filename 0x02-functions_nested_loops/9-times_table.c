@@ -31,7 +31,7 @@ void times_table(void)
 
 			}
 		}
-		purchar('\n');
+		_purchar('\n');
 	}
 }
 		
